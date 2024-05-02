@@ -39,7 +39,7 @@ Features authentication & authorization, working with multiple json web tokens, 
 ***Configure your application using the following environment variables:***
 
 ### Client Side
-***VITE_BASE_URL*** = set your backend Server url
+***https://hms-backend-deployment-y3o9.onrender.com*** = set your backend Server url instead of this url like http://localhost:4000/
 
 ### Server side -> config.env
 * ***FRONTEND_URL*** = set your frontend url.
