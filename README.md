@@ -63,6 +63,10 @@ Features authentication & authorization, working with multiple json web tokens, 
 ### Client side
 * change directory to **frontend** folder
 * Install dependencies using **npm install**
+* Run the application using **npm run dev**
+* ### Client side
+* change directory to **dashboard** folder
+* Install dependencies using **npm install**
 * Run the application using **npm run dev** 
 
 ## Usage
